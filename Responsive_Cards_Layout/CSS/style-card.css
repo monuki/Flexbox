@@ -6,4 +6,4 @@ The primary stylesheet for the Flexbox Cards Demo web page. This sheet pulls in 
 @import url('layout.css');
 @import url('typography.css');
 @import url('masthead.css');
-@import url('../card-styles.css');
+@import url('card-styles.css');
